@@ -25,15 +25,13 @@ Zulhijaya</a></h1>
 
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/zulhijaya-zulhijaya-07135b229/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/zulhijaya18">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/zul_hijaya">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-      </div>
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/zulhijaya-zulhijaya-07135b229/">
+        <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/zulhijaya18">
+        <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/zul_hijaya">
+        <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+</div>
 
-## </p>
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+</p>
