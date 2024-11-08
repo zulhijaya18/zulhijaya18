@@ -14,9 +14,7 @@ Zulhijaya</a></h1>
 
 - 🔭 I’m currently working in <a href="https://zero-one-group.com/" target="blank">Zero One Technology</a>
 
-- 🌱 I’m currently Working on Mobile Product Engineer (Flutter)
-
-- 🌱 I’m currently learning ReactJS & SvelteJS
+- 🌱 I’m currently Working on Mobile Product Engineer (Flutter) and Frontend Engineer (NextJS, ReactJS, Typescript, PHP, JQuery)
 
 - 📫 How to reach me **32.zulhijaya@gmail.com**
 
